@@ -24,7 +24,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-
+//look the layout
     private static final String REGISTER_URL = "http://akdapp.azurewebsites.net/api/Branches/Create";
 
     public static final String KEY_USERNAME = "Name";
